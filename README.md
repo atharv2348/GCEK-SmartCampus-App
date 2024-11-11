@@ -4,15 +4,15 @@ The GCEK SmartCampus App is a comprehensive mobile application built in Flutter 
 
 ## Features 
 
-**College Information**: Get detailed information about GCEK, including academic programs and campus resources. < br / > 
-**Admission Requirements**: Check the necessary documents required for admission, making the enrollment process simpler and more transparent.< br / > 
-**Scholarship Information**: Access details on available scholarships to support students financially.< br / > 
-**Official Exam Websites**: Direct links to MHT-CET and JEE official websites for the latest updates.< br / > 
-**Academic Branches**: Information on all available branches and courses offered at GCEK.< br / > 
-**Placement Records**: Access data on past placement statistics to understand the trends and opportunities.< br / > 
-**College Clubs**: Overview of various student clubs and extracurricular activities available in campus.< br / > 
-**Campus Facilities**: Details on the facilities provided by GCEK, including libraries, labs, and recreational spaces.< br / > 
-**Student Forum**: An interactive forum where students can post queries and engage with peers and faculty for support.< br / > 
+**College Information**: Get detailed information about GCEK, including academic programs and campus resources.  
+**Admission Requirements**: Check the necessary documents required for admission, making the enrollment process simpler and more transparent.  
+**Scholarship Information**: Access details on available scholarships to support students financially.  
+**Official Exam Websites**: Direct links to MHT-CET and JEE official websites for the latest updates.  
+**Academic Branches**: Information on all available branches and courses offered at GCEK.  
+**Placement Records**: Access data on past placement statistics to understand the trends and opportunities.  
+**College Clubs**: Overview of various student clubs and extracurricular activities available in campus.  
+**Campus Facilities**: Details on the facilities provided by GCEK, including libraries, labs, and recreational spaces.  
+**Student Forum**: An interactive forum where students can post queries and engage with peers and faculty for support.  
 
 **PlayStore Link** : https://play.google.com/store/apps/details?id=com.gcek.it
 
